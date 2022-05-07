@@ -1,5 +1,5 @@
 # SpringSecurityManager
-Implement Spring Security with Authentication .
+#Implement Spring Security with Authentication 
 DESCRIPTION
 Project objective:
 As a developer, build Authentication Provider in Spring Security.
